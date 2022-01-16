@@ -23,4 +23,5 @@ This application, as it is configured, is:
  1. Scalable (Site is configured through CloudFront which has extremely high throughput, backend is setup with lambda and API Gateway).
  2. Modular (Can be easily extended to be used in other front ends).
  3. Auditable (Usage and access data is all logged in CloudWatch).
+
 This is a fully functional website that could handle high traffic, and could be configured to be served quickly to international users if needed.
